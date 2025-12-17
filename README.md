@@ -1,0 +1,2 @@
+# tcl_erp
+Mobile ERP Application for Construction Project Management  TCL_ERP is a Flutter-based mobile ERP application developed as part of the Round 1 Engineering Assessment for Tanvir Constructions Limited (TCL Informatix LTD).  The application is designed for non-technical business users—such as managers and project leads—to monitor construction projects, track budgets and expenses, manage tasks and teams, and review payment approvals through a clean, data-driven mobile interface.
