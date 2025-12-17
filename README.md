@@ -10,11 +10,9 @@ A clean, data-driven mobile ERP application built using **Flutter** and **GetX**
 This application was developed as part of the **Round 1 – Engineering Assessment** for the **Flutter Application Developer** position at:
 
 **TCL Informatix LTD**  
-*A sister concern of Tanvir Constructions Limited*
 
-📅 **Submission Date:** December 19, 2025  
 👨‍💻 **Developer:** Md. Tanvir Ann Noor Meem  
-📧 **Email:** skmdsakib2186@gmail.com  
+📧 **Email:** tanvirannnoormeem@gmail.com  
 
 ---
 
